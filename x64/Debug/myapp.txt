@@ -1,0 +1,6 @@
+  myapp.c
+C:\Users\User\Desktop\myapp\myapp.c(17,27): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[10000]'
+C:\Users\User\Desktop\myapp\myapp.c(87,103): warning C4047: '!=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\User\Desktop\myapp\myapp.c(76,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[500]'
+C:\Users\User\Desktop\myapp\myapp.c(78,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[500]'
+  myapp.vcxproj -> C:\Users\User\Desktop\myapp\x64\Debug\myapp.exe
